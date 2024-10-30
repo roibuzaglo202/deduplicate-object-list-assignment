@@ -1,0 +1,15 @@
+{
+  "name": "deduplicate-object-list-assignment",
+  "version": "1.0.0",
+  "description": "An assignment to implement a function that removes duplicate objects from a randomly selected list.",
+  "main": "tests/dataHelper.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.6.1"
+  },
+  "author": "Your Company or Team Name",
+  "license": "MIT"
+}
